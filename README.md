@@ -1,18 +1,18 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00ff9c&height=220&section=header&text=ahmetilterinci&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Bilişim%20Güvenliği%20•%20Full-Stack%20Developer%20•%20Creator&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00ff9c&height=220&section=header&text=ahmetilterinci&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Bili%C5%9Fim%20G%C3%BCvenli%C4%9Fi%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Creator&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+whoami;Bilişim+Güvenliği+Öğrencisi+%40+Gazi+Üniversitesi;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Discord+Bot+%7C+Web+%7C+Mobile+%7C+Desktop+Developer;Roblox+Game+Developer+%F0%9F%8E%AE;GFX+%7C+Video+%26+Audio+Editor+%F0%9F%8E%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+whoami;Bili%C5%9Fim+G%C3%BCvenli%C4%9Fi+%C3%96%C4%9Frencisi+%40+Gazi+%C3%9Cniversitesi;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Discord+Bot+%7C+Web+%7C+Mobile+%7C+Desktop+Developer;Roblox+Game+Developer+%F0%9F%8E%AE;GFX+%7C+Video+%26+Audio+Editor+%F0%9F%8E%A8" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmetilterinci&label=Profil%20Görüntülenme&color=00ff9c&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ahmetilterinci?label=Takipçi&style=flat-square&color=00ff9c&labelColor=0d1117&logo=github" />
-  <img src="https://img.shields.io/badge/Gazi%20Üniversitesi-Bilişim%20Güvenliği-00ff9c?style=flat-square&labelColor=0d1117&logo=academia&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ahmetilterinci&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=00ff9c&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ahmetilterinci?label=Takip%C3%A7i&style=flat-square&color=00ff9c&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Gazi%20%C3%9Cniversitesi-Bili%C5%9Fim%20G%C3%BCvenli%C4%9Fi-00ff9c?style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ felsefe:     "Önce anla, sonra inşa et, sonra kır, sonra güçlendir."
 
 <p align="center">
   <a href="https://discord.com/users/956934127700029510"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
-  <a href="https://www.linkedin.com/in/ahmetilterinci"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://www.linkedin.com/in/ahmet-ilter-inci/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://instagram.com/ahmetilterinci"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
   <a href="https://www.youtube.com/@Parzi_music"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
   <a href="mailto:ahmetilterinci27@gmail.com"><img src="https://img.shields.io/badge/E--posta-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
