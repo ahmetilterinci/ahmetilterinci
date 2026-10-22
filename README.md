@@ -35,10 +35,10 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <a href="https://github.com/KULLANICIADIN">
-    <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub İstatistikleri" />
+  <a href="https://github.com/ahmetilterinci">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetilterinci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub İstatistikleri" />
   </a>
-  <a href="https://github.com/KULLANICIADIN">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="En Çok Kullanılan Diller" />
+  <a href="https://github.com/ahmetilterinci">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetilterinci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="En Çok Kullanılan Diller" />
   </a>
 </p>
