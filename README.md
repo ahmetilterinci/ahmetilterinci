@@ -76,7 +76,7 @@ felsefe:     "Önce anla, sonra inşa et, sonra kır, sonra güçlendir."
 <!-- PROJE_REPO_1 / 2 / 3 / 4 kısımlarını kendi repo adlarınla değiştir -->
 <p align="center">
   <a href="https://github.com/ahmetilterinci/Gazi_BLG106_Final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetilterinci&repo=PROJE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetilterinci&repo=Gazi_BLG106_Final&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
   </a>
   <!-- <a href="https://github.com/ahmetilterinci/PROJE_REPO_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetilterinci&repo=PROJE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
